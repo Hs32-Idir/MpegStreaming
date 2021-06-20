@@ -12,7 +12,7 @@ readme :
    - Web music streaming , connect to whole host ex : (elio) 
      download and save into a local files a fany musics.
      Type : psychdelic. 
-     Supported OS : Windows / Linux under WinPE
+   - Supported OS : Windows / Linux under WinPE
      
 Contact :     
      -Web : http://wWw.Hs32-Idir.Tk

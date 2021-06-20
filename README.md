@@ -1,10 +1,10 @@
 # PsyTrance Music Streaming by Hs32-Idir
 
-   |_________________________________________________|
-   | - Web Music streaming ( Psy Trance )            |
-   |   delphi Open source application.               |
-   |       : Psychedelic music type :                |
-   |_________________________________________________|
+ |------------------------------------------|
+ | - Web Music streaming ( Psy Trance )     |
+ | -  delphi Open source application.       |
+ | - : Psychedelic music type :             |
+ |------------------------------------------| 
    
 readme :
   

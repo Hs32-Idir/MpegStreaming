@@ -9,8 +9,8 @@ Details :
    
 readme :
   
-   - Web music streaming , connect to whole host ex : (elio) 
-     download and save into a local files a fany musics.
+   - Web music streaming , connect to the target host ex : (elio.org) 
+     download and save into a local file a fany music.
      Type : psychdelic. 
    - Supported OS : Windows / Linux under WinPE
      
